@@ -1,0 +1,73 @@
+[
+    {
+     "id":"1",
+     "name":"DDR2",
+     "parent_id":"0"
+     
+    }, 
+    {
+     "id":"2",
+     "name":"DDR3",
+     "parent_id":"0"
+    },
+    {
+        "id":"3",
+        "name":"DDR4",
+        "parent_id":"0"
+    },
+    {
+        "id":"4",
+        "name":"8500R Mhz",
+        "parent_id":"2"
+    },
+    {
+        "id":"5",
+        "name":"10600R Mhz",
+        "parent_id":"2"
+    },
+    {
+        "id":"6",
+        "name":"12800R Mhz",
+        "parent_id":"2"
+    },
+    {
+        "id":"7",
+        "name":"2166 Mhz",
+        "parent_id":"3"
+    },
+    {
+        "id":"8",
+        "name":"2266 Mhz",
+        "parent_id":"3"
+    },
+    {
+        "id":"9",
+        "name":"2300 Mhz",
+        "parent_id":"3"
+    },
+    {
+        "id":"10",
+        "name":"2400 Mhz",
+        "parent_id":"3"
+    },
+    {
+        "id":"11",
+        "name":"400 Mhz",
+        "parent_id":"1"
+    },
+    {
+        "id":"12",
+        "name":"533 Mhz",
+        "parent_id":"1"
+    },
+    {
+        "id":"13",
+        "name":"667 Mhz",
+        "parent_id":"1"
+    },
+    {
+        "id":"14",
+        "name":"800 Mhz",
+        "parent_id":"1"
+    }
+   ]
