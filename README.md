@@ -1,6 +1,6 @@
 # StockManagementSystem
 
-This project is prepared with PHP and Javascript to manage inventory system online. It makes Create, Read, Update, Delete operations about items. 
+This project is prepared with PHP and Javascript to manage inventory system online. It makes Create, Read, Update, Delete operations about items and has authorization system. 
 
 # How To Start 
 
