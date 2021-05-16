@@ -2,7 +2,7 @@
 
 This project is prepared with PHP and Javascript to manage inventory system online. It makes Create, Read, Update, Delete operations about items. 
 
-#How To Start 
+# How To Start 
 
 After cloning to server, the project database file must be exported. 
 
